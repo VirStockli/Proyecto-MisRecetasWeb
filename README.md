@@ -38,8 +38,8 @@ RecetasApp es una aplicación web moderna y responsiva que permite visualizar un
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/tuusuario/recetas-app.git
-cd recetas-app
+git clone https://github.com/VirStockli/Proyecto-MisRecetasWeb.git
+cd PROYECYO-MISRECETASWEB
 ```
 
 ### 2. Instalar dependencias
