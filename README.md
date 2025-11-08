@@ -1,4 +1,4 @@
-# 🍽️ RecetasApp - Aplicación de Recetas de Cocina
+# 🍽️ Mis Recetas Web - Página Web de Recetas de Cocina
 
 ![React](https://img.shields.io/badge/React-19.1.1-blue)
 ![React Router](https://img.shields.io/badge/React%20Router-7.8.2-orange)
